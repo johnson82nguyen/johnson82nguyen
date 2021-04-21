@@ -2,7 +2,7 @@
 - I am a recent graduate at the University Of Minnesota Twin-Cities. During my 4 year tenure, I obtained a Computer Science degree and have learned many tools and languages for software development and engineering.
 
 - 👀 I’m interested in Software engineering. I want to develope applications that benefit millions of people. 
-- 🌱 I’m currently learning a web development tool such as Django in my free time.
+- 🌱 I’m currently learning web development in my free time.
 - 📫 How to reach me 
 - LinkedIn (https://www.linkedin.com/in/johnson-nguyen82/)
 - Gmail (johnson82nguyen@gmail.com)
