@@ -7,7 +7,6 @@
 - LinkedIn (https://www.linkedin.com/in/johnson-nguyen82/)
 - Gmail (johnson82nguyen@gmail.com)
 - Phone number (952-594-5175)
-- Checkout my website at www.johnson-nguyen.com
 
 
 
